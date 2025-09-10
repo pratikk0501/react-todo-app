@@ -1,7 +1,7 @@
 # My Todo App
 
-* React.JS Todo App with FantaCSS & LocalStorage
+* React JS Todo App with Custom CSS styles and LocalStorage
 
 * Deployed on Netlify
 
-* See the app in action here: https://pratiks-todo-app.netlify.app/
+* [See the app in action!](https://pratiks-todo-app.netlify.app/)
